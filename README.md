@@ -1,0 +1,1 @@
+# P224_CSharp_05-01-2022_Struct-GenericType-Constraint-Collections
