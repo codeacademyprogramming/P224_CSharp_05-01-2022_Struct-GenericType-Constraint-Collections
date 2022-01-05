@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.exe
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.deps.json
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.dll
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.pdb
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.dll
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.pdb
+C:\Users\memme\Desktop\P224\Task\GenericConstraint\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.genruntimeconfig.cache
